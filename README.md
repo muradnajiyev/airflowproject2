@@ -22,7 +22,6 @@ airflowproject2/
 ├── docker-compose.yaml
 ├── Dockerfile
 ├── requirements.txt
-└── .gitignore
 ```
 
 ## Layihənin İmkanları
